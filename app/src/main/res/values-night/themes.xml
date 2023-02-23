@@ -2,4 +2,5 @@
 <resources>
     <style name="Theme.Woof" parent="android:style/Theme.Material.NoActionBar">
     <item name="android:statusBarColor">@color/grey_900</item>
-</style></resources>
+    </style>
+</resources>
